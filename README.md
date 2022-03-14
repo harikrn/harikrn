@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harikrishnan
-- 👀 I’m interested in developing and maintaining web applications
+- 👀 I am a web developer
 - 📫 You can reach me by email harikrishnan.nambbothiri@eventinc.de
 
 <!---
